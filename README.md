@@ -1,6 +1,6 @@
 # 🌟 Meheraj Hossain | Web Application Developer 🌟
 
-Hello! I'm **Meheraj Hossain**, a web application developer with **1+ year** of hands-on experience. I specialize in building dynamic and scalable web applications using **Bootstrap**, **JavaScript**, **jQuery**, **PHP**, **Laravel**, and **MySQL**. I've had the opportunity to contribute to high-impact projects, including developing for **Daily Inqilab**, one of Bangladesh's major newspapers.
+Hello! I'm **Meheraj Hossain**, a web application developer with **1+ year** of hands-on experience. I specialize in building dynamic and scalable web applications using **Bootstrap**, **JavaScript**, **jQuery**, **React**, **PHP**, **Laravel**, and **MySQL**. I've had the opportunity to contribute to high-impact projects, including developing for **Daily Inqilab**, one of Bangladesh's major newspapers.
 
 ---
 
