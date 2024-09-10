@@ -10,6 +10,8 @@ Hello! I'm **Meheraj Hossain**, a web application developer with **1+ year** of 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+
 
 - **Backend**:  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
