@@ -6,7 +6,7 @@ In my current role, I develop and maintain both external and internal web applic
 
 ## Skills and Technologies
 
-- **Frontend**: Bootstrap, JavaScript, jQuery
+- **Frontend**: Bootstrap, JavaScript, jQuery, React.js
 - **Backend**: PHP, Laravel
 - **Database**: MySQL
 - **APIs**: REST API Development
