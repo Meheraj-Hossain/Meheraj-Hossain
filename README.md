@@ -1,6 +1,6 @@
 # 🌟 Meheraj Hossain | Software Engineer (Grade-I) 🌟
 
-Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of hands-on experience. I build dynamic and scalable web applications using **Tailwind**, **JavaScript**, **jQuery**, **React**, **PHP**, **Laravel**, and **MySQL**. I've contributed to high-impact projects, including developing for Daily Inqilab, one of Bangladesh's major newspapers. Currently, I'm working as a Software Engineer (Grade-I) at 6amTech, a software company.
+Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of hands-on experience. I build dynamic and scalable web applications using **Bootstrap**, **JavaScript**, **jQuery**, **React**, **PHP**, **Laravel**, and **MySQL**. I've contributed to high-impact projects, including developing for Daily Inqilab, one of Bangladesh's major newspapers. Currently, I'm working as a Software Engineer (Grade-I) at 6amTech, a software company.
 
 ---
 
