@@ -1,12 +1,13 @@
-# 🌟 Meheraj Hossain | Web Application Developer 🌟
+# 🌟 Meheraj Hossain | Software Engineer (Grade-I) 🌟
 
-Hello! I'm **Meheraj Hossain**, a web application developer with **1+ year** of hands-on experience. I specialize in building dynamic and scalable web applications using **Bootstrap**, **JavaScript**, **jQuery**, **React**, **PHP**, **Laravel**, and **MySQL**. I've had the opportunity to contribute to high-impact projects, including developing for **Daily Inqilab**, one of Bangladesh's major newspapers.
+Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of hands-on experience. I build dynamic and scalable web applications using **Tailwind**, **JavaScript**, **jQuery**, **React**, **PHP**, **Laravel**, and **MySQL**. I've contributed to high-impact projects, including developing for Daily Inqilab, one of Bangladesh's major newspapers. Currently, I'm working as a Software Engineer (Grade-I) at 6amTech, a software company.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend**:  
+- **Frontend**:
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
@@ -24,13 +25,21 @@ Hello! I'm **Meheraj Hossain**, a web application developer with **1+ year** of 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 - **Other Tools**:  
-  Google Ad Manager, Google AdSense, REST API
+  ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?logo=api&logoColor=white)
+  ![Google Ad Manager](https://img.shields.io/badge/-Google%20Ad%20Manager-4285F4?logo=googleads&logoColor=white)
+  ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4?logo=googleads&logoColor=white)
 
 ---
 
 ## 🔧 Work Experience
 
-### [Web Application Developer](https://www.khaborerkagoj.com) | Khaborerkagoj.com (August 2023 - Present)
+### [Software Engineer (Grade-I)](https://6amtech.com) | 6amTech (November 2024 - Present)
+- **Responsibilities**:  
+  - Develop scalable web applications for clients, ensuring performance and security.
+  - Collaborate with cross-functional teams to deliver projects on time.
+  - Optimize code for maintainability and efficiency.
+
+### [Web Application Developer](https://www.khaborerkagoj.com) | Khaborerkagoj.com (August 2023 - October 2024)
 - **Responsibilities**:  
   - Develop and maintain the company’s web applications, ensuring performance and security.
   - Optimize load times and responsiveness for a seamless user experience.
