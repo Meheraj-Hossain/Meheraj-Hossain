@@ -25,7 +25,7 @@ Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of han
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 - **Other Tools**:  
-  ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?logo=api&logoColor=white)
+  ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?logo=swagger&logoColor=white)
   ![Google Ad Manager](https://img.shields.io/badge/-Google%20Ad%20Manager-4285F4?logo=googleads&logoColor=white)
   ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4?logo=googleads&logoColor=white)
 
