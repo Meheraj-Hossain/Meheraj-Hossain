@@ -7,6 +7,7 @@ Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of han
 ## 🛠️ Skills & Technologies
 
 - **Frontend**:
+  
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
