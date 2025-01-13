@@ -13,7 +13,6 @@ Hello! I'm **Meheraj Hossain**, a web application developer with 2+ years of han
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
-
 - **Backend**:  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
